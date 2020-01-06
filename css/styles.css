@@ -176,11 +176,26 @@ text-align: center;
 #study {
   font-family: 'Prata', serif;
 font-size: 100px;
-color: white`
+color: white;
 
 }
 
 
+/* Hobbies
+------------------------------------*/
+.hobby {
+  text-align: center;
+  background: black;
+  color: white;
+}
+
+.hobby h3 {
+  margin-top:70px;
+  margin-bottom: 10px;
+  font-family: 'Long Cang', cursive;
+  font-size: 40px;
+  color: white;
+}
 /* Contact Info
 ------------------------------------*/
 footer {
@@ -198,5 +213,9 @@ footer {
   display: inline-block;
 }
 #contact {
+  font-size: 70px;
+}
+
+#hobies {
   font-size: 70px;
 }
